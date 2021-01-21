@@ -1,0 +1,15 @@
+header{
+    display:inline-flex;
+}
+ul{
+    display: inline-block;
+}
+nav{
+    text-align: flex-end;
+}
+ul li{
+    align-self:flex-end;
+    display: inline;
+    text-decoration:none;
+    color: rgb(36, 107, 173);
+}
